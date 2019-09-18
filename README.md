@@ -15,30 +15,30 @@ Mg. Jesus Vilchez Sandoval
 
 2. **La ciberseguridad y el centro de operaciones de seguridad**
 - 2.1. Demostración de técnicas de Hacking
-- [ ]El peligro
-- [ ]Actores de amenazas
-- [ ]Impacto
-- [ ]Convertirse en un defensor
+- [ ] El peligro
+- [ ] Actores de amenazas
+- [ ] Impacto
+- [ ] Convertirse en un defensor
 - 2.2. Centros de operaciones de seguridad moderna 
 
 3. **Sistema Operativo Windows**
 - 3.1. Descripción general
-- [ ]Arquitectura y operaciones 
+- [ ] Arquitectura y operaciones 
 - 3.2. Administración 
-- [ ]Configuración y monitoreo 
-- [ ]Seguridad en Windows
+- [ ] Configuración y monitoreo 
+- [ ] Seguridad en Windows
 
 4. **Sistema Operativo GNU Linux**
 - 4.1. Descripción general
-- [ ]Nociones básicas
-- [ ]Shell
-- [ ]Servidores y Clientes 
+- [ ] Nociones básicas
+- [ ] Shell
+- [ ] Servidores y Clientes 
 - 4.2. Administración 
-- [ ]Administración básica de servidores 
-- [ ]Sistema de archivos
+- [ ] Administración básica de servidores 
+- [ ] Sistema de archivos
 - 4.3. Hosts 
-- [ ]GUI de Linux 
-- [ ]Trabajar en un Host
+- [ ] GUI de Linux 
+- [ ] Trabajar en un Host
 
 5. **Protocolos y Servicios de Red** 
 - 5.1. Protocolos de red
@@ -56,26 +56,26 @@ Mg. Jesus Vilchez Sandoval
 7. **Principios de la seguridad en redes**  
 - 7.1. Los ataques y sus principales herramientas
 - 7.2.  Amenazas y ataques comunes:
-- [ ]Malware
-- [ ]Ataques habituales de red
+- [ ] Malware
+- [ ] Ataques habituales de red
 8. **Una mirada mas detallada a los ataques a la red**
 - 8.1. Monitoreo de red y herramientas
-- [ ]Topología de seguridad en la red
-- [ ]Métodos de monitoreo de red
-- [ ]Puntos de acceso de prueba de la red
-- [ ]Replicación de trafico y SPAN
+- [ ] Topología de seguridad en la red
+- [ ] Métodos de monitoreo de red
+- [ ] Puntos de acceso de prueba de la red
+- [ ] Replicación de trafico y SPAN
 - 8.2. Ataque a las bases
-- [ ]Vulnerabilidades y amenazas de IP 
-- [ ]Vulnerabilidades de TCP y UDP 
+- [ ] Vulnerabilidades y amenazas de IP 
+- [ ] Vulnerabilidades de TCP y UDP 
 
 9. **Proteger la red**
 - 9.1. Control de Acceso
 - 9.2. Inteligencia contra amenazas 
-- [ ]Cisco talos 
-- [ ]Fire eye 
-- [ ]Uso compartido automatizado de indicadores
-- [ ]Base de datos de vulnerabilidades y exposiciones comunes
-- [ ]Estándares de comunicación 
+- [ ] Cisco talos 
+- [ ] Fire eye 
+- [ ] Uso compartido automatizado de indicadores
+- [ ] Base de datos de vulnerabilidades y exposiciones comunes
+- [ ] Estándares de comunicación 
 
 10. **La criptografía y la infraestructura de claves publicas**
 
