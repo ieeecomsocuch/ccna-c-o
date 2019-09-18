@@ -1,13 +1,16 @@
-Curso: CCNA Cybersecurity Operations
+# Curso: CCNA Cybersecurity Operations
+<img src="https://images-na.ssl-images-amazon.com/images/I/81g5efpiCjL.jpg" width="525"/>
 
+*******
 Docente
 
 Mg. Jesus Vilchez Sandoval
 
 
-Temario | Silabo
+*******
+## Temario | Silabo
 
-1. Capitulo1: Introducción al curso  
+1. **Capitulo1: Introducción al curso**  
 1.1. CCNA Cybersecurity Operations  
 
 2. Capitulo2: La ciberseguridad y el centro de operaciones de seguridad
@@ -96,4 +99,4 @@ Estándares de comunicación
 Bibliografía 
 
 
-- CCNA Cybersecurity Operations [https://www.netacad.com/es/courses/security/ccna-cybersecurity-operations]
+- [CCNA Cybersecurity Operations](https://www.netacad.com/es/courses/security/ccna-cybersecurity-operations)
